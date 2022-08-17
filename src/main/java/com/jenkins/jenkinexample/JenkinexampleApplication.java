@@ -10,6 +10,7 @@ public class JenkinexampleApplication {
 		SpringApplication.run(JenkinexampleApplication.class, args);
 
 		System.out.println("****** Hello World *********");
+		System.out.println("****** Jenkins verification CICD*********");
 	}
 
 
